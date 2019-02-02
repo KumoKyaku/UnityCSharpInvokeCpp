@@ -1,0 +1,4 @@
+﻿  main.cpp
+g:\c#c++交互\_test\cpp64dlltest\main.cpp : warning C4819: 该文件包含不能在当前代码页(932)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+    正在创建库 G:\C#C++交互\_Test\CPP64DLLTest\x64\Debug\CPP64DLLTest.lib 和对象 G:\C#C++交互\_Test\CPP64DLLTest\x64\Debug\CPP64DLLTest.exp
+  CPP64DLLTest.vcxproj -> G:\C#C++交互\_Test\CPP64DLLTest\x64\Debug\CPP64DLLTest.dll
